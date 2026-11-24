@@ -39,6 +39,24 @@ Developer by passion. Entrepreneur by mindset. Problem solver by nature.
 - **Tools:** Git, GitHub, XAMPP
 - **Other Interests:** MikroTik, networking, system architecture
 
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all three URLs. -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%">
+
+</div>
+
+> **Note:** These cards load your real public GitHub activity. Language percentages are calculated from your public repositories.
+
 ## 💭 My Mindset
 
 > Don't just dream about it. Build it.
