@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**markchitoanteja/markchitoanteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mark Chito 👋
 
-Here are some ideas to get you started:
+### Developer | Entrepreneur | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn ideas into working solutions.
+
+I'm a self-driven developer with a passion for building web applications, custom management systems, and digital solutions. I enjoy understanding how things work, solving real-world problems through code, and continuously improving the systems I build.
+
+### What I Do
+- 💻 Develop web applications and custom software.
+- ⚙️ Build business management and automation systems.
+- 🌐 Work with networking and internet infrastructure.
+- 🗄️ Design databases and backend architectures.
+- 🚀 Explore new technologies and improve existing solutions.
+
+### Technologies & Tools
+- PHP | JavaScript | HTML5 | CSS3
+- Bootstrap | jQuery
+- MySQL | MariaDB
+- Git | GitHub
+- MikroTik | Networking
+
+### My Philosophy
+
+> Don't just use technology. Understand it, build with it, and make it useful.
+
+**Always learning. Always building.**
