@@ -45,13 +45,13 @@ Developer by passion. Entrepreneur by mindset. Problem solver by nature.
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all three URLs. -->
+<!-- Replace markchitoanteja with your actual GitHub username in all three URLs. -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=markchitoanteja&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markchitoanteja&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=markchitoanteja&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%">
 
 </div>
 
