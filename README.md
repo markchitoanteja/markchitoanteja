@@ -46,15 +46,15 @@ Developer by passion. Entrepreneur by mindset. Problem solver by nature.
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=markchitoanteja&show_icons=true&theme=tokyonight&hide_border=true"
 alt="GitHub Stats">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=markchitoanteja&layout=compact&theme=tokyonight&hide_border=true"
 alt="Most Used Languages">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=markchitoanteja&theme=tokyo-night&hide_border=true"
 alt="Contribution Graph">
 
 </div>
