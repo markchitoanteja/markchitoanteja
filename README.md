@@ -1,28 +1,47 @@
 
-# Hi, I'm Mark Chito 👋
+<div align="center">
 
-### Developer | Entrepreneur | Problem Solver
+# 👋 Hey, I'm Mark Chito
 
-I turn ideas into working solutions.
+### 💻 Developer | 🚀 Entrepreneur | 🧠 Problem Solver
 
-I'm a self-driven developer with a passion for building web applications, custom management systems, and digital solutions. I enjoy understanding how things work, solving real-world problems through code, and continuously improving the systems I build.
+**I turn ideas into digital reality.**
 
-### What I Do
-- 💻 Develop web applications and custom software.
-- ⚙️ Build business management and automation systems.
-- 🌐 Work with networking and internet infrastructure.
-- 🗄️ Design databases and backend architectures.
-- 🚀 Explore new technologies and improve existing solutions.
+*Developer by passion. Entrepreneur by mindset.
+Problem solver by nature.*
 
-### Technologies & Tools
-- PHP | JavaScript | HTML5 | CSS3
-- Bootstrap | jQuery
-- MySQL | MariaDB
-- Git | GitHub
-- MikroTik | Networking
+---
 
-### My Philosophy
+### 🚀 WHAT I DO
 
-> Don't just use technology. Understand it, build with it, and make it useful.
+| 💻 Development | ⚙️ Systems |
+|:---:|:---:|
+| Web Applications | Business Management Systems |
+| Backend Development | Database Architecture |
+| Custom Web Solutions | Workflow Automation |
 
-**Always learning. Always building.**
+| 🌐 Networking | 💡 Innovation |
+|:---:|:---:|
+| Internet Infrastructure | Creative Problem Solving |
+| MikroTik Configuration | Continuous Learning |
+
+### 🛠️ TECHNOLOGIES & TOOLS
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 💭 MY MINDSET
+
+> Don't just dream about it. Build it.
+
+**Learn. Build. Innovate. Repeat.**
+
+</div>
